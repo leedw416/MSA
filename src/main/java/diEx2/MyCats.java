@@ -7,6 +7,7 @@ public class MyCats {
 	private String name;
 	private int age;
 	private ArrayList<String> hobbys;
+	private int age2;
 
 	//생성자를 통해 name, age, hobbys를 받아와 각각의 필드의 값들을 초기화 시켜줌
 	public MyCats(String name, int age, ArrayList<String> hobbys) {
